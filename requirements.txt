@@ -1,0 +1,12 @@
+langchain
+bitsandbytes
+torch
+transformers
+flask
+sentencepiece
+Xformers
+einops
+peft
+accelerate
+scikit-learn
+protobuf
